@@ -1,0 +1,11 @@
+C:\Users\Juan Perdomo\platzi\c_char\etapa2\bin\Debug\netcoreapp3.1\etapa2.exe
+C:\Users\Juan Perdomo\platzi\c_char\etapa2\bin\Debug\netcoreapp3.1\etapa2.deps.json
+C:\Users\Juan Perdomo\platzi\c_char\etapa2\bin\Debug\netcoreapp3.1\etapa2.runtimeconfig.json
+C:\Users\Juan Perdomo\platzi\c_char\etapa2\bin\Debug\netcoreapp3.1\etapa2.runtimeconfig.dev.json
+C:\Users\Juan Perdomo\platzi\c_char\etapa2\bin\Debug\netcoreapp3.1\etapa2.dll
+C:\Users\Juan Perdomo\platzi\c_char\etapa2\bin\Debug\netcoreapp3.1\etapa2.pdb
+C:\Users\Juan Perdomo\platzi\c_char\etapa2\obj\Debug\netcoreapp3.1\etapa2.csprojAssemblyReference.cache
+C:\Users\Juan Perdomo\platzi\c_char\etapa2\obj\Debug\netcoreapp3.1\etapa2.AssemblyInfoInputs.cache
+C:\Users\Juan Perdomo\platzi\c_char\etapa2\obj\Debug\netcoreapp3.1\etapa2.AssemblyInfo.cs
+C:\Users\Juan Perdomo\platzi\c_char\etapa2\obj\Debug\netcoreapp3.1\etapa2.dll
+C:\Users\Juan Perdomo\platzi\c_char\etapa2\obj\Debug\netcoreapp3.1\etapa2.pdb
