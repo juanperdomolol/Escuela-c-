@@ -36,8 +36,15 @@ namespace etapa2
             WriteLine("============================");
             //Escuelita.cursos.Remove(cursotmp); se remueve un solo curso
            // Escuelita.cursos.RemoveAll(Predicado);//este es el delegado de predicado para borrar un curso
-            ImprimirCursosEscuela(Escuelita);
+           /* Escuelita.cursos.RemoveAll(delegate(Curso cur)//expresion lambda como parametro
+            {
+                return cur.nombre == "301";
+            }
+            );
 
+            Escuelita.cursos.RemoveAll(( Curso)=>Curso.nombre == "501");//expresion lambda
+            ImprimirCursosEscuela(Escuelita);*/
+te amo!
 
         }
 
