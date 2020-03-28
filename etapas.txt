@@ -1,0 +1,5 @@
+etapa 1: creando la escuela
+etapa 2: creando otros objetos para la escuela
+etapa 3: implementando colecciones para el manejo de cursos
+etapa 4: refactorizando y cargando datos de prueba
+etapa 5: reutilizar tanto codigo como sea posible
